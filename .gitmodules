@@ -1,0 +1,6 @@
+[submodule "product/web/Teapot"]
+	path = product/web/Teapot
+	url = https://github.com/HeliCraft-MC/Teapot
+[submodule "product/web/Vesper"]
+	path = product/web/Vesper
+	url = https://github.com/HeliCraft-MC/Vesper
